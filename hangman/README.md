@@ -1,3 +1,4 @@
 Welcome to Hangman
 
-Run `./hangman` in the terminal to begin
+1. In the terminal, run `chmod 711 hangman`
+2. Run `./hangman` 
