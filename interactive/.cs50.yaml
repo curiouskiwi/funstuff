@@ -1,6 +1,5 @@
 lab50:
   windows:
-    - editor
     - readme
     - terminal
   files:
