@@ -1,7 +1,5 @@
 lab50:
-  windows:
-    - readme
-    - terminal
   files:
     - !exclude "*"
+    - !include "scrabble.py"
   
