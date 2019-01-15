@@ -4,4 +4,4 @@ lab50:
     - readme
     - terminal
   files:
-    - !include scrabblescore.py
+    - !include scrabble.py
