@@ -1,1 +1,7 @@
-lab50: true
+lab50:
+  windows:
+    - editor
+    - readme
+    - terminal
+  files:
+    - !include scrabblescore.py
