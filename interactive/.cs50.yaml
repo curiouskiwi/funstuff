@@ -2,4 +2,6 @@ lab50:
   windows:
     - readme
     - terminal
+  files:
+    - !exclude "*"
   
